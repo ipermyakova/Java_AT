@@ -1,0 +1,6 @@
+washer|white|plastic/metal|4000|6|1400
+mixer|red|plastic|600|4
+coffer_mashines|black|plastic|1600|2.4
+kettle|black|metal|2500|1.7
+iron|green|plastic/metal|3120|200
+hair_dryer|black|plastic/metal|2000|2
